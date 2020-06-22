@@ -1,0 +1,22 @@
+{
+  "group": "com.fasterxml.jackson.core",
+  "name": "jackson-core",
+  "version": "2.11.0",
+  "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+  "content": [
+    {
+      "type": "url",
+      "value": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.0/jackson-core-2.11.0-javadoc.jar"
+    },
+    {
+      "type": "url",
+      "value": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.0/jackson-core-2.11.0-sources.jar"
+    },
+    {
+      "type": "url",
+      "value": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.0/jackson-core-2.11.0.jar"
+    }
+  ],
+  "dependencies": [],
+  "install": []
+}
