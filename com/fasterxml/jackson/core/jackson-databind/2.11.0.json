@@ -20,7 +20,7 @@
   "dependencies": [
     {
       "type": "url",
-      "value": "https://github.com/SirMathhman/Scaffold-JAR/releases/download/0.1/module.json"
+      "value": "https://github.com/SirMathhman/Scaffold-Modules/blob/master/com/fasterxml/jackson/core/jackson-core/2.11.0.json"
     }
   ],
   "install": []
