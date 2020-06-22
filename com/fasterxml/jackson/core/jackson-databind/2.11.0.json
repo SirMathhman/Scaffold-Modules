@@ -1,0 +1,27 @@
+{
+  "group": "com.fasterxml.jackson.core",
+  "name": "jackson-databind",
+  "version": "2.11.0",
+  "description": "General data-binding functionality for Jackson: works on core streaming API",
+  "content": [
+    {
+      "type": "url",
+      "value": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.0/jackson-databind-2.11.0-javadoc.jar"
+    },
+    {
+      "type": "url",
+      "value": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.0/jackson-databind-2.11.0-sources.jar"
+    },
+    {
+      "type": "url",
+      "value": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.0/jackson-databind-2.11.0.jar"
+    }
+  ],
+  "dependencies": [
+    {
+      "type": "url",
+      "value": "https://github.com/SirMathhman/Scaffold-JAR/releases/download/0.1/module.json"
+    }
+  ],
+  "install": []
+}
