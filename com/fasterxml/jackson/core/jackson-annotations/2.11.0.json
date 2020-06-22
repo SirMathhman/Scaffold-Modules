@@ -1,0 +1,22 @@
+{
+  "group": "com.fasterxml.jackson.core",
+  "name": "jackson-annotations",
+  "version": "2.11.0",
+  "description": "General data-binding functionality for Jackson: works on core streaming API",
+  "content": [
+    {
+      "type": "url",
+      "value": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.0/jackson-annotations-2.11.0-javadoc.jar"
+    },
+    {
+      "type": "url",
+      "value": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.0/jackson-annotations-2.11.0-sources.jar"
+    },
+    {
+      "type": "url",
+      "value": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.0/jackson-annotations-2.11.0.jar"
+    }
+  ],
+  "dependencies": [],
+  "install": []
+}
